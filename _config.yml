@@ -1,8 +1,8 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
+site: Itsnkt1
+title: Itsnkt1
+greetings: Itsnkt1 🧾
 description: >-
-  just a minimalist, personal blog
+  Notebank of Naveen
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]
@@ -10,7 +10,7 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
+  name: Naveen Tripathi
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
