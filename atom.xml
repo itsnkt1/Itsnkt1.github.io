@@ -4,7 +4,7 @@
  <title>Itsnkt1</title>
  <link href="https://itsnkt1.github.io/atom.xml" rel="self"/>
  <link href="https://itsnkt1.github.io/"/>
- <updated>2021-12-04T16:29:32+01:00</updated>
+ <updated>2021-12-04T16:31:10+01:00</updated>
  <id>https://itsnkt1.github.io</id>
  <author>
    <name>Naveen Tripathi</name>
@@ -17,16 +17,7 @@
    <link href="https://itsnkt1.github.io/2020/12/04/pre-historic-india"/>
    <updated>2020-12-04T00:00:00+01:00</updated>
    <id>https://itsnkt1.github.io/2020/12/04/Pre-Historic-India</id>
-   <content type="html">
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title: Pre Historic India
-description: Notes 
-summary: collection of short notes  I
-tags: AncientHistory
-—&lt;/p&gt;
-
-&lt;h1 id=&quot;the-prehistoric-period&quot;&gt;the Prehistoric Period&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;the-prehistoric-period&quot;&gt;the Prehistoric Period&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Paleolithic&lt;/li&gt;
   &lt;li&gt;Mesolithic&lt;/li&gt;
