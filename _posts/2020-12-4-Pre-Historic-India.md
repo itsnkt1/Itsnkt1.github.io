@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pre Historic India
-description: Notes 
-summary: collection of short notes  I
+description: Notes on Ancient Indian History Harappan culture Indus Valley
+summary: collection of short notes on Indus valley civilization Harappa and Ancient Indian History
 tags: AncientHistory
 ---
 
