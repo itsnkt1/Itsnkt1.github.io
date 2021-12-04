@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Gesko</title>
+ <title>Itsnkt1</title>
  <link href="https://p0wex.github.io/Gesko/atom.xml" rel="self"/>
  <link href="https://p0wex.github.io/Gesko/"/>
- <updated>2021-12-04T15:50:26+01:00</updated>
+ <updated>2021-12-04T15:58:20+01:00</updated>
  <id>https://p0wex.github.io</id>
  <author>
-   <name>gesko</name>
+   <name>Naveen Tripathi</name>
    <email>your-email@email.com</email>
  </author>
 
