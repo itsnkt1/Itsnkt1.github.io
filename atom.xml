@@ -4,7 +4,7 @@
  <title>Itsnkt1</title>
  <link href="https://itsnkt1.github.io/atom.xml" rel="self"/>
  <link href="https://itsnkt1.github.io/"/>
- <updated>2022-01-12T20:57:00+01:00</updated>
+ <updated>2022-04-24T12:45:03+02:00</updated>
  <id>https://itsnkt1.github.io</id>
  <author>
    <name>Naveen Tripathi</name>
@@ -288,7 +288,7 @@ kashmir Valley, Chirand (Bihar), Belan Valley (Uttar Pradesh)&lt;/li&gt;
  </entry>
  
  <entry>
-   <title>Disable Jekyll's default syntax highlighter Rouge</title>
+   <title>Disable Jekyll&apos;s default syntax highlighter Rouge</title>
    <link href="https://itsnkt1.github.io/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge"/>
    <updated>2018-02-05T00:00:00+01:00</updated>
    <id>https://itsnkt1.github.io/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge</id>
@@ -637,7 +637,7 @@ Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee 
 
 &lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
 	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hello&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-	&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;world&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'w'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;world&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;&apos;w&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
