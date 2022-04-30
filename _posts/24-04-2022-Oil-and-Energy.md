@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oil and Gas 
+title: Oil and Energy
 description: Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs
 summary: Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs.
 tag: funda
