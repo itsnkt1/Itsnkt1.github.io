@@ -1,8 +1,9 @@
 ---
 layout: post
-title: what is Tag & How to Use Tags
-description: This is all about uses of tags to browse
-tags: tags
+title: How to Use Tags
+description: Notes on Ancient Indian History Harappan culture Indus Valley
+summary: collection of short notes on Indus valley civilization Harappa and Ancient Indian History
+tags: Tagging
 ---
 
 
