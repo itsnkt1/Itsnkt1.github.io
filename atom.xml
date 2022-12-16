@@ -4,13 +4,22 @@
  <title>Itsnkt1</title>
  <link href="https://itsnkt1.github.io/atom.xml" rel="self"/>
  <link href="https://itsnkt1.github.io/"/>
- <updated>2022-12-16T14:06:38+01:00</updated>
+ <updated>2022-12-16T14:08:01+01:00</updated>
  <id>https://itsnkt1.github.io</id>
  <author>
    <name>Naveen Tripathi</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Oil and Energy</title>
+   <link href="https://itsnkt1.github.io/2022/12/16/oil-and-energy"/>
+   <updated>2022-12-16T00:00:00+01:00</updated>
+   <id>https://itsnkt1.github.io/2022/12/16/Oil-and-Energy</id>
+   <content type="html">&lt;p&gt;On July 26, 1941, President Franklin Delano Roosevelt (FDR) seized all Japanese assets in the US and imposed a strict oil embargo on the country. Britain and the Dutch East Indies – the colonial predecessor to modern-day Indonesia and a major oil supplier to Japan – quickly followed suit. Virtually overnight, Japan lost three quarters of its trade and nearly 90% of its oil imports. Faced with limited domestic oil inventory, minimal capacity for production, and few options beyond a humiliating surrender of their geopolitical aims to a hostile foreign power, Japan made the fateful decision to go to war with the US. The attack on Pearl Harbor a little more than four months later was driven by Japan’s ultimate need to occupy, defend, and exploit the energy bounty of the Dutch East Indies, which they proceeded to do a month after severely weakening the US forces in the Pacific.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>How to Use Tags</title>
