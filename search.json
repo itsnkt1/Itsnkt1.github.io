@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Using oscillator effectively",
+      "description" : "This is finding about some sneaky tricks of using oscillators",
+      "category" : "",
+      "tags"     : "technicals",
+      "url"      : "/2022/12/26/truths-of-oscillators",
+      "date"     : "2022-12-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Oil and Energy",
       "description" : "Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs",
       "category" : "",
