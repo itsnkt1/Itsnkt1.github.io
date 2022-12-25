@@ -38,6 +38,21 @@ Let us see how he can handle these periods...I will explain first two cases,rest
   
 On 27-5-09 at 1:00 bar the stochastic oscillator goes into overbought zone and that is a mouth watering trade for our trader friend to go short ( most will trade like this and repent later ). He goes short and gets killed in the subsequent market action.
 
+The **Oscillator Entry Qualifiers for a Long Trade** are as under :
+
+The oscillator should have gone to oversold zone.
+
+Wait for a bar where the oscillator flips...ie comes out of oversold zone and comes in neutral zone....
+
+In doing step No 2 the oscillator should not have stayed in oversold zone for 5 bars and more
+
+Wait for an upclose ( meaning close more than earlier bar's close)
+
+Ensure that by that time oscillator does not go very near overbought region
+
+Buy when the high of the upclose bar is broken on upside.....
+
+
 The **Oscillator Entry Qualifiers For Short Trade** are as under :  
   
 1) The oscillator should have gone to overbought zone.  
