@@ -109,10 +109,10 @@
 <lastmod>2022-12-26T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://itsnkt1.github.io/Note/</loc>
+<loc>https://itsnkt1.github.io/about/</loc>
 </url>
 <url>
-<loc>https://itsnkt1.github.io/about/</loc>
+<loc>https://itsnkt1.github.io/tag/coding/</loc>
 </url>
 <url>
 <loc>https://itsnkt1.github.io/tag/netlify/</loc>
@@ -122,9 +122,6 @@
 </url>
 <url>
 <loc>https://itsnkt1.github.io/tag/Tag/</loc>
-</url>
-<url>
-<loc>https://itsnkt1.github.io/tag/coding/</loc>
 </url>
 <url>
 <loc>https://itsnkt1.github.io/tag/css/</loc>
@@ -142,6 +139,9 @@
 <loc>https://itsnkt1.github.io/tag/technicals/</loc>
 </url>
 <url>
+<loc>https://itsnkt1.github.io/</loc>
+</url>
+<url>
 <loc>https://itsnkt1.github.io/tag/typography/</loc>
 </url>
 <url>
@@ -149,6 +149,6 @@
 </url>
 <url>
 <loc>https://itsnkt1.github.io/main.html</loc>
-<lastmod>2023-02-16T21:47:52+01:00</lastmod>
+<lastmod>2023-02-16T21:48:59+01:00</lastmod>
 </url>
 </urlset>
